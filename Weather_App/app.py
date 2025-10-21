@@ -17,7 +17,7 @@ if not API_KEY:
 
 # Title
 st.title("🌤️ Weather Insight Dashboard")
-st.write("Real-time weather + 7-day trends + next-day forecast — portfolio-ready Data Science project")
+st.write("Aayush Joshi's Real-time weather + 7-day trends + next-day forecast")
 
 # Sidebar input
 st.sidebar.header("City Search")
