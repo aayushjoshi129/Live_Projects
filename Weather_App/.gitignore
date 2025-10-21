@@ -1,5 +1,7 @@
  ../.idea/
 ../.venv/
+venv/
+.env
 ../Data_Analytics_Full_Course/
 ../Data_Analytics_New/
 ../MERN_Project/
@@ -7,3 +9,4 @@
 ../myenv/
 ../MERN_Project/uber_project/
 ./
+data/
