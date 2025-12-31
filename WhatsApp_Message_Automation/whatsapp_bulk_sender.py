@@ -37,7 +37,7 @@ Hi {name}, Wishing you a year filled with good health, success, and new opportun
 Best wishes for a prosperous year ahead!"""
 
 # 👇 ONLY these first names will receive messages (case-insensitive)
-ALLOWED_FIRST_NAMES = ['Headache']
+ALLOWED_FIRST_NAMES = ['AB']
 
 OUTPUT_EXCEL = "whatsapp_report.xlsx"
 SEND_DELAY_SECONDS = 5   # keep >=5 to avoid ban
@@ -193,4 +193,5 @@ def main():
 # =========================
 
 if __name__ == "__main__":
+
     main()
